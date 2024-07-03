@@ -12,3 +12,9 @@
 <p> you can find  trained model named as yolov8n.pt you can use this model to generate the predictions.</p>
 
 ### Analysis
+
+# 1. ![]()
+# 2. ![]()
+# 3. ![]()
+# 4. ![]()
+# 5. ![]()
