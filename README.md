@@ -13,8 +13,6 @@
 
 ### Analysis
 
-# 1. ![]()
-# 2. ![]()
-# 3. ![]()
-# 4. ![]()
-# 5. ![]()
+![](https://github.com/PranjalDby/YOLOV8_objectDetection/blob/main/results_analysis/confusion_matrix.png)
+![](https://github.com/PranjalDby/YOLOV8_objectDetection/blob/main/results_analysis/labels_correlogram.jpg)
+![](https://github.com/PranjalDby/YOLOV8_objectDetection/blob/main/results_analysis/val_batch0_labels.jpg)
